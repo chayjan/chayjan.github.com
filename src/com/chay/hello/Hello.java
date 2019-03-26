@@ -19,6 +19,9 @@ public class Hello {
                 return --a;
             }
         }
+    private String getString(int a, int b){
+            return a + b + "";
+    }
 
 
 }
